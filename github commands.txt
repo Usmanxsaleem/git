@@ -1,3 +1,7 @@
 github commands.
 
-git init
+1. git init
+2. git remote add origin https://github.com/Usmanxsaleem/git.git
+3. git add .
+4. git commit -m "any message"
+5. git push -u origin master
